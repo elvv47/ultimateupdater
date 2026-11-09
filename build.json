@@ -1,6 +1,6 @@
   {
-    "version": "0.4.1",
-    "date": "09.11.2026",
-    "time": "18:05",
-    "notes": "• Autoupdater\n• Misc fixes\n• олексій"
+    "version": "0.4.2",
+    "date": "10.11.2026",
+    "time": "01:24",
+    "notes": "• Screenshots tab in the build menu\n• Build export to file\n• Build icons can now be image\n• Statistics of hours spent in the build\n• Invite to lobby via Discord\n• NeoForge Fix"
   }
